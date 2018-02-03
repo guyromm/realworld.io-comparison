@@ -1,16 +1,16 @@
-      72 text files.
-classified 72 files      70 unique files.                              
-      12 files ignored.
+      71 text files.
+classified 71 files      69 unique files.                              
+       8 files ignored.
 
 github.com/AlDanial/cloc v 1.74  
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-JSON                            11              0              0           4942
 JavaScript                      50            521            174           4099
+JSON                            10              0              0            100
 Markdown                         1             31              0             63
 YAML                             3              5              0             56
 Dockerfile                       1              4              0              8
 -------------------------------------------------------------------------------
-SUM:                            66            561            174           9168
+SUM:                            65            561            174           4326
 -------------------------------------------------------------------------------

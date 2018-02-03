@@ -1,15 +1,15 @@
-     142 text files.
-classified 142 filesDuplicate file check 142 files (132 known unique)Unique:      100 files                                               135 unique files.                              
-Counting:  100      14 files ignored.
+     141 text files.
+classified 141 filesDuplicate file check 141 files (131 known unique)Unique:      100 files                                               134 unique files.                              
+Counting:  100      10 files ignored.
 
 github.com/AlDanial/cloc v 1.74  
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-JavaScript                     127          10189          15398          39357
+JavaScript                     126           1621           2526           5197
 Markdown                         3            216              0            376
 JSON                             2              0              0             53
 HTML                             2              4             16             31
 -------------------------------------------------------------------------------
-SUM:                           134          10409          15414          39817
+SUM:                           133           1841           2542           5657
 -------------------------------------------------------------------------------

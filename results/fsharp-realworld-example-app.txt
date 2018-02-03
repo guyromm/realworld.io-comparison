@@ -1,6 +1,6 @@
       15 text files.
 classified 15 files      15 unique files.                              
-       8 files ignored.
+       4 files ignored.
 
 github.com/AlDanial/cloc v 1.74  
 -------------------------------------------------------------------------------

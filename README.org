@@ -6,4 +6,13 @@ i have a hard time choosing a framework/technology, therefore decided to explore
 * enter realworld.io
 - a good resource of arguably non-trivial reference implementations of the same functionality.
 * what we'd like to compare
+- code readability. subjective!
 - terseness. lines of code
+- reasonable extensibility, feature-wise
+  - integration to 3rd party services
+  - ease of development with client-side
+- dogma. functional vs. procedure
+- ease of development
+  - hot reaload, built in debugger
+* approach
+- tests are excluded for loc comparison. more "static" and "pure" languages arguably require less tests, as compilation provides some of that.
