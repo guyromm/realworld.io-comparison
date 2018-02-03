@@ -1,0 +1,14 @@
+{
+  "name": "realworld.io-comparison",
+  "version": "1.0.0",
+  "description": "a comparison of server side solutions from https://github.com/gothinkster/realworld",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guy Romm",
+  "license": "ISC",
+  "dependencies": {
+    "cloc": "^2.3.3"
+  }
+}
