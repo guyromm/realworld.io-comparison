@@ -1,0 +1,9 @@
+* reason
+i have a hard time choosing a framework/technology, therefore decided to explore realworld.
+- old ones are boring
+- new ones are promising but rough around the edges
+- the balance between widespread usage, adoptation, features & performance is difficult to find.
+* enter realworld.io
+- a good resource of arguably non-trivial reference implementations of the same functionality.
+* what we'd like to compare
+- terseness. lines of code
