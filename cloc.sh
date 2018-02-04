@@ -8,6 +8,9 @@ function listfiles() {
 	 ! -wholename '*node_modules/*' \
 	 ! -wholename '*TestCase/*' \
 	 ! -wholename '*/tests/*' \
+	 ! -wholename '*/migrations/*py' \
+	 ! -wholename '*/migrations/*js' \
+	 ! -wholename '*/migrate/*rb' \
 	 ! -wholename '*www/bundle.js' \
 	 ! -iname 'package-lock.json' \
 	 ! -iname 'yarn.lock'    

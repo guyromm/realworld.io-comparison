@@ -16,3 +16,10 @@ i have a hard time choosing a framework/technology, therefore decided to explore
   - hot reaload, built in debugger
 * approach
 - tests are excluded for loc comparison. more "static" and "pure" languages arguably require less tests, as compilation provides some of that.
+* comparison
+| implementation                     | persistence     | orm          | framework | db     |
+|------------------------------------+-----------------+--------------+-----------+--------|
+| node-express-realworld-example-app | mongodb         | mongoose     | express   |        |
+| flask-realworld-example-app        | sqlite/postgres | sqlalchemy   | flask     |        |
+| rails-realworld-example-app        |                 | activerecord |           | mysql  |
+| django-realworld-example-app       |                 | django-model |           | sqlite |
