@@ -33,5 +33,7 @@ i have a hard time choosing a framework/technology, therefore decided to explore
 * usage
 - analyze fetched server side implementations :: $ ./cloc.sh server
 - analyze fetched client side implementations :: $ ./cloc.sh client
+- breakup of server side LOC by implementation, language :: [[file:server-results/bylang.tsv][server-results/bylang.tsv]]
+- breakup of client side LOC by implementation, language :: [[file:client-results/bylang.tsv][client-results/bylang.tsv]]
 cloc results are put into [[file:client-results/][client-results/]] and [[file:server-results/][server-results/]], respectively.
 
