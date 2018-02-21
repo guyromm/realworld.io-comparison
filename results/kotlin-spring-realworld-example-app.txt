@@ -1,16 +1,5 @@
-      50 text files.
-classified 50 files      50 unique files.                              
-       4 files ignored.
-
-github.com/AlDanial/cloc v 1.74  
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-Kotlin                          43            215             55           1063
-Maven                            1             11              0            167
-Bourne Shell                     1             29             51            145
-DOS Batch                        1             31              0            112
-Markdown                         1             19              0             41
--------------------------------------------------------------------------------
-SUM:                            47            305            106           1528
--------------------------------------------------------------------------------
+kotlin-spring-realworld-example-app	Kotlin                          43            215             55           1063
+kotlin-spring-realworld-example-app	Maven                            1             11              0            167
+kotlin-spring-realworld-example-app	Bourne Shell                     1             29             51            145
+kotlin-spring-realworld-example-app	DOS Batch                        1             31              0            112
+kotlin-spring-realworld-example-app	Markdown                         1             19              0             41

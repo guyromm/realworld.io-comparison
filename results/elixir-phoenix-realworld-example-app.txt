@@ -1,15 +1,4 @@
-      78 text files.
-classified 78 files      78 unique files.                              
-       8 files ignored.
-
-github.com/AlDanial/cloc v 1.74  
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-Elixir                          68            466            473           1741
-PO File                          1             20             18             55
-Markdown                         1              8              0             16
-YAML                             1              5              0             13
--------------------------------------------------------------------------------
-SUM:                            71            499            491           1825
--------------------------------------------------------------------------------
+elixir-phoenix-realworld-example-app	Elixir                          68            466            473           1741
+elixir-phoenix-realworld-example-app	PO File                          1             20             18             55
+elixir-phoenix-realworld-example-app	Markdown                         1              8              0             16
+elixir-phoenix-realworld-example-app	YAML                             1              5              0             13

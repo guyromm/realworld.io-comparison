@@ -1,21 +1,10 @@
-     125 text files.
-classified 125 filesDuplicate file check 125 files (113 known unique)Unique:      100 files                                               119 unique files.                              
-Counting:  100      22 files ignored.
-
-github.com/AlDanial/cloc v 1.74  
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-PHP                             91            740           2110           2225
-Markdown                         1             67              0             97
-Blade                            1             13              2             80
-JSON                             2              0              0             78
-JavaScript                       4             19             66             33
-XML                              1              1              0             31
-Sass                             2             11             11             25
-Vuejs Component                  1              2              0             21
-YAML                             1              6              0             19
-CSS                              1              2              4              3
--------------------------------------------------------------------------------
-SUM:                           105            861           2193           2612
--------------------------------------------------------------------------------
+laravel-realworld-example-app	PHP                             91            740           2110           2225
+laravel-realworld-example-app	Markdown                         1             67              0             97
+laravel-realworld-example-app	Blade                            1             13              2             80
+laravel-realworld-example-app	JSON                             2              0              0             78
+laravel-realworld-example-app	JavaScript                       4             19             66             33
+laravel-realworld-example-app	XML                              1              1              0             31
+laravel-realworld-example-app	Sass                             2             11             11             25
+laravel-realworld-example-app	Vuejs Component                  1              2              0             21
+laravel-realworld-example-app	YAML                             1              6              0             19
+laravel-realworld-example-app	CSS                              1              2              4              3

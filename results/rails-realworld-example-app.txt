@@ -1,18 +1,7 @@
-      78 text files.
-classified 78 files      76 unique files.                              
-      40 files ignored.
-
-github.com/AlDanial/cloc v 1.74  
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-Ruby                            41            226            435            440
-HTML                             3             15              3            182
-YAML                             8             18             51            111
-Markdown                         1             22              0             32
-ERB                              1              2              0             12
-CSS                              1              0             15              0
-JavaScript                       1              0             16              0
--------------------------------------------------------------------------------
-SUM:                            56            283            520            777
--------------------------------------------------------------------------------
+rails-realworld-example-app	Ruby                            41            226            435            440
+rails-realworld-example-app	HTML                             3             15              3            182
+rails-realworld-example-app	YAML                             8             18             51            111
+rails-realworld-example-app	Markdown                         1             22              0             32
+rails-realworld-example-app	ERB                              1              2              0             12
+rails-realworld-example-app	JavaScript                       1              0             16              0
+rails-realworld-example-app	CSS                              1              0             15              0

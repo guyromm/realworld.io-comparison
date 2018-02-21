@@ -1,17 +1,6 @@
-      24 text files.
-classified 24 files      24 unique files.                              
-       9 files ignored.
-
-github.com/AlDanial/cloc v 1.74  
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-JavaScript                      12            225            488           1287
-YAML                             1             10             12            102
-JSON                             3              2              0             85
-Markdown                         1             29              0             64
-Dockerfile                       1              5              0              7
-HTML                             1              0              0              1
--------------------------------------------------------------------------------
-SUM:                            19            271            500           1546
--------------------------------------------------------------------------------
+moleculer-node-realworld-example-app	JavaScript                      12            225            488           1287
+moleculer-node-realworld-example-app	YAML                             1             10             12            102
+moleculer-node-realworld-example-app	JSON                             3              2              0             85
+moleculer-node-realworld-example-app	Markdown                         1             29              0             64
+moleculer-node-realworld-example-app	Dockerfile                       1              5              0              7
+moleculer-node-realworld-example-app	HTML                             1              0              0              1

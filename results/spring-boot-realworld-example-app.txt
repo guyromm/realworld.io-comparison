@@ -1,20 +1,9 @@
-     108 text files.
-classified 108 filesDuplicate file check 108 files (104 known unique)Unique:      100 files                                               108 unique files.                              
-Counting:  100       5 files ignored.
-
-github.com/AlDanial/cloc v 1.74  
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-Java                            86            687              4           3494
-XML                             12             16              7            437
-Bourne Shell                     1             21             22            129
-DOS Batch                        1             23              2             59
-Groovy                           1              5              0             44
-SQL                              1              6              0             43
-Markdown                         1             24              0             31
-YAML                             1              2              0             14
-Dockerfile                       1             12              0             12
--------------------------------------------------------------------------------
-SUM:                           105            796             35           4263
--------------------------------------------------------------------------------
+spring-boot-realworld-example-app	Java                            86            687              4           3494
+spring-boot-realworld-example-app	XML                             12             16              7            437
+spring-boot-realworld-example-app	Bourne Shell                     1             21             22            129
+spring-boot-realworld-example-app	DOS Batch                        1             23              2             59
+spring-boot-realworld-example-app	Groovy                           1              5              0             44
+spring-boot-realworld-example-app	SQL                              1              6              0             43
+spring-boot-realworld-example-app	Markdown                         1             24              0             31
+spring-boot-realworld-example-app	YAML                             1              2              0             14
+spring-boot-realworld-example-app	Dockerfile                       1             12              0             12

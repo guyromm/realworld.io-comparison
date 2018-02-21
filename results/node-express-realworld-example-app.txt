@@ -1,15 +1,4 @@
-      18 text files.
-classified 18 files      18 unique files.                              
-       3 files ignored.
-
-github.com/AlDanial/cloc v 1.74  
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-JavaScript                      13            135             21            596
-JSON                             1              0              0             43
-Markdown                         1             20              0             32
-YAML                             2              5              0             25
--------------------------------------------------------------------------------
-SUM:                            17            160             21            696
--------------------------------------------------------------------------------
+node-express-realworld-example-app	JavaScript                      13            135             21            596
+node-express-realworld-example-app	JSON                             1              0              0             43
+node-express-realworld-example-app	Markdown                         1             20              0             32
+node-express-realworld-example-app	YAML                             2              5              0             25

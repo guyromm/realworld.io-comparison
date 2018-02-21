@@ -1,16 +1,5 @@
-      27 text files.
-classified 27 files      27 unique files.                              
-       3 files ignored.
-
-github.com/AlDanial/cloc v 1.74  
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-Go                              17            229            134           1713
-Markdown                         4            105              0            516
-JSON                             1              0              0            211
-Bourne Shell                     2              7              1             23
-YAML                             1              5              1             17
--------------------------------------------------------------------------------
-SUM:                            25            346            136           2480
--------------------------------------------------------------------------------
+golang-gin-realworld-example-app	Go                              17            229            134           1713
+golang-gin-realworld-example-app	Markdown                         4            105              0            516
+golang-gin-realworld-example-app	JSON                             1              0              0            211
+golang-gin-realworld-example-app	Bourne Shell                     2              7              1             23
+golang-gin-realworld-example-app	YAML                             1              5              1             17

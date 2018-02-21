@@ -1,18 +1,7 @@
-      23 text files.
-classified 23 files      23 unique files.                              
-       9 files ignored.
-
-github.com/AlDanial/cloc v 1.74  
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-Rust                             6            555             38           2617
-SQL                              5            101             15            332
-DOS Batch                        3              3              0             37
-TOML                             1              4              2             37
-Markdown                         1             16              0             36
-YAML                             1             11             27             24
-Bourne Shell                     1              5              1             15
--------------------------------------------------------------------------------
-SUM:                            18            695             83           3098
--------------------------------------------------------------------------------
+rust-realworld-example-app	Rust                             6            555             38           2617
+rust-realworld-example-app	SQL                              5            101             15            332
+rust-realworld-example-app	TOML                             2              4              3             42
+rust-realworld-example-app	DOS Batch                        3              3              0             37
+rust-realworld-example-app	Markdown                         1             16              0             36
+rust-realworld-example-app	YAML                             1             11             27             24
+rust-realworld-example-app	Bourne Shell                     1              5              1             15

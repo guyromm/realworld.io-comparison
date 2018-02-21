@@ -1,19 +1,8 @@
-     101 text files.
-classified 101 filesDuplicate file check 101 files (100 known unique)Unique:      100 files                                               100 unique files.                              
-Counting:  100      33 files ignored.
-
-github.com/AlDanial/cloc v 1.74  
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-PHP                             69            597           2212           2779
-CSS                              3            200            185            830
-Markdown                         1             56              0             73
-JSON                             1              0              0             59
-SQL                              2              2              0             29
-YAML                             1              9              0             28
-Bourne Shell                     1              4             18             24
-DOS Batch                        1              5              0             22
--------------------------------------------------------------------------------
-SUM:                            79            873           2415           3844
--------------------------------------------------------------------------------
+cakephp-realworld-example-app	PHP                             69            597           2212           2779
+cakephp-realworld-example-app	CSS                              3            200            185            830
+cakephp-realworld-example-app	Markdown                         1             56              0             73
+cakephp-realworld-example-app	JSON                             1              0              0             59
+cakephp-realworld-example-app	SQL                              2              2              0             29
+cakephp-realworld-example-app	YAML                             1              9              0             28
+cakephp-realworld-example-app	Bourne Shell                     1              4             18             24
+cakephp-realworld-example-app	DOS Batch                        1              5              0             22

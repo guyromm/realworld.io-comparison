@@ -1,13 +1,2 @@
-      33 text files.
-classified 33 files      33 unique files.                              
-       7 files ignored.
-
-github.com/AlDanial/cloc v 1.74  
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-Python                          30            384            294            887
-Markdown                         1              8              0             16
--------------------------------------------------------------------------------
-SUM:                            31            392            294            903
--------------------------------------------------------------------------------
+django-realworld-example-app	Python                          30            384            294            887
+django-realworld-example-app	Markdown                         1              8              0             16

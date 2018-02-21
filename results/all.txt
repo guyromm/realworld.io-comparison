@@ -1,0 +1,98 @@
+repo	lang	files	blank	comment	code
+aspnetcore-realworld-example-app	C#                              63            366             95           2123
+aspnetcore-realworld-example-app	PowerShell                       1             37             47            144
+aspnetcore-realworld-example-app	Markdown                         1             25              0             37
+aspnetcore-realworld-example-app	MSBuild script                   1              0              0             23
+aspnetcore-realworld-example-app	JSON                             1              0              0             22
+aspnetcore-realworld-example-app	Bourne Shell                     1              7             15             20
+aspnetcore-realworld-example-app	YAML                             1              1              0             10
+aspnetcore-realworld-example-app	Dockerfile                       1              3              0              5
+cakephp-realworld-example-app	PHP                             69            597           2212           2779
+cakephp-realworld-example-app	CSS                              3            200            185            830
+cakephp-realworld-example-app	Markdown                         1             56              0             73
+cakephp-realworld-example-app	JSON                             1              0              0             59
+cakephp-realworld-example-app	SQL                              2              2              0             29
+cakephp-realworld-example-app	YAML                             1              9              0             28
+cakephp-realworld-example-app	Bourne Shell                     1              4             18             24
+cakephp-realworld-example-app	DOS Batch                        1              5              0             22
+django-realworld-example-app	Python                          30            384            294            887
+django-realworld-example-app	Markdown                         1              8              0             16
+elixir-phoenix-realworld-example-app	Elixir                          68            466            473           1741
+elixir-phoenix-realworld-example-app	PO File                          1             20             18             55
+elixir-phoenix-realworld-example-app	Markdown                         1              8              0             16
+elixir-phoenix-realworld-example-app	YAML                             1              5              0             13
+flask-realworld-example-app	Python                          22            249             91            795
+flask-realworld-example-app	YAML                             2              2              1             29
+fsharp-realworld-example-app	JSON                             2              0              0           1873
+fsharp-realworld-example-app	F#                               9            172             26            783
+fsharp-realworld-example-app	Markdown                         1              8              0             14
+gcp-datastore-cloud-functions-realworld-example-app	JSON                             2              0              0           1615
+gcp-datastore-cloud-functions-realworld-example-app	JavaScript                       9            169             57           1076
+gcp-datastore-cloud-functions-realworld-example-app	Markdown                         1             35              0            116
+gcp-datastore-cloud-functions-realworld-example-app	YAML                             2              9              5             41
+gcp-datastore-cloud-functions-realworld-example-app	Bourne Shell                     2              9              8             35
+golang-gin-realworld-example-app	Go                              17            229            134           1713
+golang-gin-realworld-example-app	Markdown                         4            105              0            516
+golang-gin-realworld-example-app	JSON                             1              0              0            211
+golang-gin-realworld-example-app	Bourne Shell                     2              7              1             23
+golang-gin-realworld-example-app	YAML                             1              5              1             17
+hapijs-realworld-example-app	JavaScript                      50            521            174           4099
+hapijs-realworld-example-app	JSON                            10              0              0            100
+hapijs-realworld-example-app	Markdown                         1             31              0             63
+hapijs-realworld-example-app	YAML                             3              5              0             56
+hapijs-realworld-example-app	Dockerfile                       1              4              0              8
+koa-knex-realworld-example	JavaScript                      34            325              1           1316
+koa-knex-realworld-example	JSON                             1              0              0             69
+koa-knex-realworld-example	Markdown                         1             26              0             39
+kotlin-spring-realworld-example-app	Kotlin                          43            215             55           1063
+kotlin-spring-realworld-example-app	Maven                            1             11              0            167
+kotlin-spring-realworld-example-app	Bourne Shell                     1             29             51            145
+kotlin-spring-realworld-example-app	DOS Batch                        1             31              0            112
+kotlin-spring-realworld-example-app	Markdown                         1             19              0             41
+laravel-realworld-example-app	PHP                             91            740           2110           2225
+laravel-realworld-example-app	Markdown                         1             67              0             97
+laravel-realworld-example-app	Blade                            1             13              2             80
+laravel-realworld-example-app	JSON                             2              0              0             78
+laravel-realworld-example-app	JavaScript                       4             19             66             33
+laravel-realworld-example-app	XML                              1              1              0             31
+laravel-realworld-example-app	Sass                             2             11             11             25
+laravel-realworld-example-app	Vuejs Component                  1              2              0             21
+laravel-realworld-example-app	YAML                             1              6              0             19
+laravel-realworld-example-app	CSS                              1              2              4              3
+moleculer-node-realworld-example-app	JavaScript                      12            225            488           1287
+moleculer-node-realworld-example-app	YAML                             1             10             12            102
+moleculer-node-realworld-example-app	JSON                             3              2              0             85
+moleculer-node-realworld-example-app	Markdown                         1             29              0             64
+moleculer-node-realworld-example-app	Dockerfile                       1              5              0              7
+moleculer-node-realworld-example-app	HTML                             1              0              0              1
+node-express-realworld-example-app	JavaScript                      13            135             21            596
+node-express-realworld-example-app	JSON                             1              0              0             43
+node-express-realworld-example-app	Markdown                         1             20              0             32
+node-express-realworld-example-app	YAML                             2              5              0             25
+QEWD-realworld-example-app	JavaScript                     126           1621           2526           5197
+QEWD-realworld-example-app	Markdown                         3            216              0            376
+QEWD-realworld-example-app	JSON                             2              0              0             53
+QEWD-realworld-example-app	HTML                             2              4             16             31
+rails-realworld-example-app	Ruby                            41            226            435            440
+rails-realworld-example-app	HTML                             3             15              3            182
+rails-realworld-example-app	YAML                             8             18             51            111
+rails-realworld-example-app	Markdown                         1             22              0             32
+rails-realworld-example-app	ERB                              1              2              0             12
+rails-realworld-example-app	JavaScript                       1              0             16              0
+rails-realworld-example-app	CSS                              1              0             15              0
+rust-realworld-example-app	Rust                             6            555             38           2617
+rust-realworld-example-app	SQL                              5            101             15            332
+rust-realworld-example-app	TOML                             2              4              3             42
+rust-realworld-example-app	DOS Batch                        3              3              0             37
+rust-realworld-example-app	Markdown                         1             16              0             36
+rust-realworld-example-app	YAML                             1             11             27             24
+rust-realworld-example-app	Bourne Shell                     1              5              1             15
+spring-boot-realworld-example-app	Java                            86            687              4           3494
+spring-boot-realworld-example-app	XML                             12             16              7            437
+spring-boot-realworld-example-app	Bourne Shell                     1             21             22            129
+spring-boot-realworld-example-app	DOS Batch                        1             23              2             59
+spring-boot-realworld-example-app	Groovy                           1              5              0             44
+spring-boot-realworld-example-app	SQL                              1              6              0             43
+spring-boot-realworld-example-app	Markdown                         1             24              0             31
+spring-boot-realworld-example-app	YAML                             1              2              0             14
+spring-boot-realworld-example-app	Dockerfile                       1             12              0             12

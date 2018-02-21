@@ -1,16 +1,5 @@
-      21 text files.
-classified 21 files      21 unique files.                              
-       6 files ignored.
-
-github.com/AlDanial/cloc v 1.74  
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-JSON                             2              0              0           1519
-JavaScript                       9            169             57           1076
-Markdown                         1             34              0            115
-YAML                             2              6              5             39
-Bourne Shell                     2              9              8             32
--------------------------------------------------------------------------------
-SUM:                            16            218             70           2781
--------------------------------------------------------------------------------
+gcp-datastore-cloud-functions-realworld-example-app	JSON                             2              0              0           1615
+gcp-datastore-cloud-functions-realworld-example-app	JavaScript                       9            169             57           1076
+gcp-datastore-cloud-functions-realworld-example-app	Markdown                         1             35              0            116
+gcp-datastore-cloud-functions-realworld-example-app	YAML                             2              9              5             41
+gcp-datastore-cloud-functions-realworld-example-app	Bourne Shell                     2              9              8             35
