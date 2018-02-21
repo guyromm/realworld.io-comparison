@@ -1,0 +1,5 @@
+slim-php-realworld-example-app	PHP                             52            489            693           1631
+slim-php-realworld-example-app	Markdown                         5             93              0            418
+slim-php-realworld-example-app	JSON                             1              1              0             53
+slim-php-realworld-example-app	XML                              1              2              1             36
+slim-php-realworld-example-app	YAML                             2              7              0             28

@@ -17,22 +17,23 @@ function listfiles() {
 	 -print0
 }
 function clocall() {
-        for D in $(find ./apps -maxdepth 1 -type d ! -iname '.' ! -iname 'apps') ; do
+    mkdir -p $1"-results"
+        for D in $(find ./$1-apps -maxdepth 1 -type d ! -iname '.' ! -iname $1'-apps') ; do
 	echo "********** $D"
 	listfiles $DIR/$D \
 	    | xargs -0 cloc \
 	    | tail -n+9 | head -n -3 | sed -E 's/^/'$(basename $D)'\t/g' \
-		    > results/$(basename $D)".txt" && \
-	    sed -i -E 's/T=(.*)$//g' results/$(basename $D)".txt"
+		    > $1"-results/"$(basename $D)".txt" && \
+	    sed -i -E 's/T=(.*)$//g' $1-results/$(basename $D)".txt"
     done
 }
 
 [[ $0 != "$BASH_SOURCE" ]] && sourced=1 || sourced=0
 if [[ $sourced != "1" ]] ; then
-    rm -rf $DIR/results/*txt
-    clocall
-    #grep SUM results/*txt | awk '{print $5,$1}' | sort -k1n
-    (echo $'repo\tlang\tfiles\tblank\tcomment\tcode' ; cat results/*txt) | tee results/all.txt &&
-    cat results/all.txt  | termsql -0 -m tab -1 "$(cat bylang.sql)" | tee results/bylang.tsv
+    rm -rf $DIR/$1-results/*txt
+    clocall $1
+    #grep SUM $1-results/*txt | awk '{print $5,$1}' | sort -k1n
+    (echo $'repo\tlang\tfiles\tblank\tcomment\tcode' ; cat $1-results/*txt) | tee $1-results/all.txt &&
+    cat $1-results/all.txt  | termsql -0 -m tab -1 "$(cat bylang.sql)" | tee $1-results/bylang.tsv
     
 fi

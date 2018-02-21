@@ -1,0 +1,10 @@
+https://github.com/gothinkster/react-redux-realworld-example-app
+https://github.com/rtfeldman/elm-spa-example
+https://github.com/gothinkster/angular-realworld-example-app
+https://github.com/gothinkster/react-mobx-realworld-example-app
+https://github.com/gothinkster/angularjs-realworld-example-app
+https://github.com/gothinkster/clojurescript-keechma-realworld-example-app
+https://github.com/sveltejs/realworld
+https://github.com/gothinkster/clojurescript-reframe-realworld-example-app
+https://github.com/gothinkster/apprun-realworld-example-app
+https://github.com/gothinkster/crizmas-mvc-realworld-example-app

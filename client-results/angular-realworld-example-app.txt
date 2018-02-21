@@ -1,0 +1,6 @@
+angular-realworld-example-app	TypeScript                      64            274            103           1485
+angular-realworld-example-app	HTML                            19             93              3            550
+angular-realworld-example-app	JSON                             7              0              0            318
+angular-realworld-example-app	JavaScript                       2              3              4             57
+angular-realworld-example-app	Markdown                         1             30              0             47
+angular-realworld-example-app	CSS                              3              1              1              9

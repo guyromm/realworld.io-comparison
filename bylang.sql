@@ -2,16 +2,22 @@ select repo,
        sum(code) tot,
        
        sum(CASE WHEN lang='Rust'THEN code ELSE 0 END) rust,
+       sum(CASE WHEN lang='Haskell' THEN code ELSE 0 END) hs,
        sum(CASE WHEN lang='Elixir'THEN code ELSE 0 END) elixir,
        sum(CASE WHEN lang='Go'THEN code ELSE 0 END) go,
 
        sum(CASE WHEN lang='Kotlin'THEN code ELSE 0 END) kotlin,
+       sum(CASE WHEN lang='Clojure'THEN code ELSE 0 END) clojure,       
        sum(CASE WHEN lang='Java'THEN code ELSE 0 END) java,
        
        sum(CASE WHEN lang='F#'THEN code ELSE 0 END) fsharp,
        sum(CASE WHEN lang='C#'THEN code ELSE 0 END) csharp,
 
        sum(CASE WHEN lang='JavaScript'THEN code ELSE 0 END) js,
+       sum(CASE WHEN lang='ClojureScript'THEN code ELSE 0 END) cljs,       
+       sum(CASE WHEN lang='TypeScript' THEN code ELSE 0 END) ts,       
+       sum(CASE WHEN lang='Elm'THEN code ELSE 0 END) elm,
+       
        sum(CASE WHEN lang='Python'THEN code ELSE 0 END) py,
        sum(CASE WHEN lang='Ruby'THEN code ELSE 0 END) ruby,       
        sum(CASE WHEN lang='PHP'THEN code ELSE 0 END) php,

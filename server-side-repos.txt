@@ -18,3 +18,4 @@ https://github.com/gothinkster/hapijs-realworld-example-app
 https://github.com/gothinkster/QEWD-realworld-example-app
 https://github.com/gothinkster/moleculer-node-realworld-example-app
 https://github.com/gothinkster/fsharp-realworld-example-app
+https://github.com/dorlowd/haskell-servant-realworld-example-app

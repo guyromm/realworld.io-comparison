@@ -1,0 +1,4 @@
+angularjs-realworld-example-app	JavaScript                      46            334             75           1074
+angularjs-realworld-example-app	HTML                            20            125             20            523
+angularjs-realworld-example-app	JSON                             1              0              0             25
+angularjs-realworld-example-app	Markdown                         1             11              0             14

@@ -1,0 +1,5 @@
+apprun-realworld-example-app	TypeScript                      18            129              3           1017
+apprun-realworld-example-app	JSON                             5              0              0            110
+apprun-realworld-example-app	Markdown                         1             36              0             55
+apprun-realworld-example-app	JavaScript                       2              2              1             38
+apprun-realworld-example-app	HTML                             1              2              2             34

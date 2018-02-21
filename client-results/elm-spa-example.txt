@@ -1,0 +1,5 @@
+elm-spa-example	Elm                             37            982            202           2856
+elm-spa-example	YAML                             1              5              0             29
+elm-spa-example	HTML                             1              4              2             27
+elm-spa-example	JSON                             1              0              0             26
+elm-spa-example	Markdown                         1             15              0             15

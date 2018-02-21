@@ -23,3 +23,15 @@ i have a hard time choosing a framework/technology, therefore decided to explore
 | flask-realworld-example-app        | sqlite/postgres | sqlalchemy   | flask     |        |
 | rails-realworld-example-app        |                 | activerecord |           | mysql  |
 | django-realworld-example-app       |                 | django-model |           | sqlite |
+* what's compared
+- server side implementations list :: [[file:server-side-repos.txt][server-side-repos.txt]]
+- client side implementations list :: [[file:client-side-repos.txt][client-side-repos.txt]]
+* installation
+- install cloc :: $ npm install
+- clone server repos :: $ ./fetch.sh server
+- clone client repos :: $ ./fetch.sh client
+* usage
+- analyze fetched server side implementations :: $ ./cloc.sh server
+- analyze fetched client side implementations :: $ ./cloc.sh client
+cloc results are put into [[file:client-results/][client-results/]] and [[file:server-results/][server-results/]], respectively.
+
