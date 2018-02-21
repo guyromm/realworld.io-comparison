@@ -34,6 +34,6 @@ if [[ $sourced != "1" ]] ; then
     clocall $1
     #grep SUM $1-results/*txt | awk '{print $5,$1}' | sort -k1n
     (echo $'repo\tlang\tfiles\tblank\tcomment\tcode' ; cat $1-results/*txt) | tee $1-results/all.txt &&
-    cat $1-results/all.txt  | termsql -0 -m tab -1 "$(cat bylang.sql)" | tee $1-results/bylang.tsv
+    cat $1-results/all.txt  | termsql -0 -m tab -1 "$(cat $1'-bylang.sql')" | tee $1-results/bylang.tsv
     
 fi

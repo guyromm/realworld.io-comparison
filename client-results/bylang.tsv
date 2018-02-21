@@ -1,11 +1,11 @@
-repo	tot	rust	hs	elixir	go	kotlin	clojure	java	fsharp	csharp	js	cljs	ts	elm	py	ruby	php	css	html	sql	json	yaml	xml	md	bash	pshell	docker	maven
-clojurescript-reframe-realworld-example-app	1159	0	0	0	0	0	49	0	0	0	9	987	0	0	0	0	0	0	22	0	48	0	0	44	0	0	0	0
-apprun-realworld-example-app	1254	0	0	0	0	0	0	0	0	0	38	0	1017	0	0	0	0	0	34	0	110	0	0	55	0	0	0	0
-clojurescript-keechma-realworld-example-app	1382	0	0	0	0	0	51	0	0	0	0	1291	0	0	0	0	0	0	15	0	13	0	0	12	0	0	0	0
-angularjs-realworld-example-app	1636	0	0	0	0	0	0	0	0	0	1074	0	0	0	0	0	0	0	523	0	25	0	0	14	0	0	0	0
-realworld	1865	0	0	0	0	0	0	0	0	0	294	0	0	0	0	0	0	0	1010	0	78	22	0	461	0	0	0	0
-crizmas-mvc-realworld-example-app	2009	0	0	0	0	0	0	0	0	0	1898	0	0	0	0	0	0	11	23	0	36	0	0	41	0	0	0	0
-react-mobx-realworld-example-app	2029	0	0	0	0	0	0	0	0	0	1937	0	0	0	0	0	0	0	15	0	33	0	0	44	0	0	0	0
-react-redux-realworld-example-app	2141	0	0	0	0	0	0	0	0	0	2048	0	0	0	0	0	0	0	15	0	31	0	0	47	0	0	0	0
-angular-realworld-example-app	2466	0	0	0	0	0	0	0	0	0	57	0	1485	0	0	0	0	9	550	0	318	0	0	47	0	0	0	0
-elm-spa-example	2953	0	0	0	0	0	0	0	0	0	0	0	0	2856	0	0	0	0	27	0	26	29	0	15	0	0	0	0
+repo	tot	clojure	js	cljs	ts	elm	css	html	json	yaml	md
+clojurescript-reframe-realworld-example-app	1159	49	9	987	0	0	0	22	48	0	44
+apprun-realworld-example-app	1254	0	38	0	1017	0	0	34	110	0	55
+clojurescript-keechma-realworld-example-app	1382	51	0	1291	0	0	0	15	13	0	12
+angularjs-realworld-example-app	1636	0	1074	0	0	0	0	523	25	0	14
+realworld	1865	0	294	0	0	0	0	1010	78	22	461
+crizmas-mvc-realworld-example-app	2009	0	1898	0	0	0	11	23	36	0	41
+react-mobx-realworld-example-app	2029	0	1937	0	0	0	0	15	33	0	44
+react-redux-realworld-example-app	2141	0	2048	0	0	0	0	15	31	0	47
+angular-realworld-example-app	2466	0	57	0	1485	0	9	550	318	0	47
+elm-spa-example	2953	0	0	0	0	2856	0	27	26	29	15
