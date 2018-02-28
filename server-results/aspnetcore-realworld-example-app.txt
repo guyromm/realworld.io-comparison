@@ -4,5 +4,5 @@ aspnetcore-realworld-example-app	Markdown                         1             
 aspnetcore-realworld-example-app	MSBuild script                   1              0              0             23
 aspnetcore-realworld-example-app	JSON                             1              0              0             22
 aspnetcore-realworld-example-app	Bourne Shell                     1              7             15             20
-aspnetcore-realworld-example-app	YAML                             1              1              0             10
+aspnetcore-realworld-example-app	YAML                             1              1              0             15
 aspnetcore-realworld-example-app	Dockerfile                       1              3              0              5

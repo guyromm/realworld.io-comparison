@@ -5,7 +5,7 @@ aspnetcore-realworld-example-app	Markdown                         1             
 aspnetcore-realworld-example-app	MSBuild script                   1              0              0             23
 aspnetcore-realworld-example-app	JSON                             1              0              0             22
 aspnetcore-realworld-example-app	Bourne Shell                     1              7             15             20
-aspnetcore-realworld-example-app	YAML                             1              1              0             10
+aspnetcore-realworld-example-app	YAML                             1              1              0             15
 aspnetcore-realworld-example-app	Dockerfile                       1              3              0              5
 cakephp-realworld-example-app	PHP                             69            597           2212           2779
 cakephp-realworld-example-app	CSS                              3            200            185            830
@@ -82,8 +82,8 @@ rails-realworld-example-app	HTML                             3             15   
 rails-realworld-example-app	YAML                             8             18             51            111
 rails-realworld-example-app	Markdown                         1             22              0             32
 rails-realworld-example-app	ERB                              1              2              0             12
-rails-realworld-example-app	CSS                              1              0             15              0
 rails-realworld-example-app	JavaScript                       1              0             16              0
+rails-realworld-example-app	CSS                              1              0             15              0
 rust-realworld-example-app	Rust                             6            555             38           2617
 rust-realworld-example-app	SQL                              5            101             15            332
 rust-realworld-example-app	TOML                             2              4              3             42

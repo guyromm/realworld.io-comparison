@@ -1,0 +1,93 @@
+[submodule "client-apps/elm-spa-example"]
+	path = client-apps/elm-spa-example
+	url = https://github.com/rtfeldman/elm-spa-example
+[submodule "client-apps/realworld"]
+	path = client-apps/realworld
+	url = https://github.com/sveltejs/realworld
+[submodule "client-apps/react-redux-realworld-example-app"]
+	path = client-apps/react-redux-realworld-example-app
+	url = https://github.com/gothinkster/react-redux-realworld-example-app
+[submodule "client-apps/angular-realworld-example-app"]
+	path = client-apps/angular-realworld-example-app
+	url = https://github.com/gothinkster/angular-realworld-example-app
+[submodule "client-apps/react-mobx-realworld-example-app"]
+	path = client-apps/react-mobx-realworld-example-app
+	url = https://github.com/gothinkster/react-mobx-realworld-example-app
+[submodule "client-apps/angularjs-realworld-example-app"]
+	path = client-apps/angularjs-realworld-example-app
+	url = https://github.com/gothinkster/angularjs-realworld-example-app
+[submodule "client-apps/clojurescript-keechma-realworld-example-app"]
+	path = client-apps/clojurescript-keechma-realworld-example-app
+	url = https://github.com/gothinkster/clojurescript-keechma-realworld-example-app
+[submodule "client-apps/clojurescript-reframe-realworld-example-app"]
+	path = client-apps/clojurescript-reframe-realworld-example-app
+	url = https://github.com/gothinkster/clojurescript-reframe-realworld-example-app
+[submodule "client-apps/apprun-realworld-example-app"]
+	path = client-apps/apprun-realworld-example-app
+	url = https://github.com/gothinkster/apprun-realworld-example-app
+[submodule "client-apps/crizmas-mvc-realworld-example-app"]
+	path = client-apps/crizmas-mvc-realworld-example-app
+	url = https://github.com/gothinkster/crizmas-mvc-realworld-example-app
+[submodule "server-apps/node-express-realworld-example-app"]
+	path = server-apps/node-express-realworld-example-app
+	url = https://github.com/gothinkster/node-express-realworld-example-app
+[submodule "server-apps/laravel-realworld-example-app"]
+	path = server-apps/laravel-realworld-example-app
+	url = https://github.com/gothinkster/laravel-realworld-example-app
+[submodule "server-apps/django-realworld-example-app"]
+	path = server-apps/django-realworld-example-app
+	url = https://github.com/gothinkster/django-realworld-example-app
+[submodule "server-apps/aspnetcore-realworld-example-app"]
+	path = server-apps/aspnetcore-realworld-example-app
+	url = https://github.com/gothinkster/aspnetcore-realworld-example-app
+[submodule "server-apps/elixir-phoenix-realworld-example-app"]
+	path = server-apps/elixir-phoenix-realworld-example-app
+	url = https://github.com/gothinkster/elixir-phoenix-realworld-example-app
+[submodule "server-apps/rails-realworld-example-app"]
+	path = server-apps/rails-realworld-example-app
+	url = https://github.com/gothinkster/rails-realworld-example-app
+[submodule "server-apps/kotlin-spring-realworld-example-app"]
+	path = server-apps/kotlin-spring-realworld-example-app
+	url = https://github.com/gothinkster/kotlin-spring-realworld-example-app
+[submodule "server-apps/flask-realworld-example-app"]
+	path = server-apps/flask-realworld-example-app
+	url = https://github.com/gothinkster/flask-realworld-example-app
+[submodule "server-apps/slim-php-realworld-example-app"]
+	path = server-apps/slim-php-realworld-example-app
+	url = https://github.com/gothinkster/slim-php-realworld-example-app
+[submodule "server-apps/spring-boot-realworld-example-app"]
+	path = server-apps/spring-boot-realworld-example-app
+	url = https://github.com/gothinkster/spring-boot-realworld-example-app
+[submodule "server-apps/cakephp-realworld-example-app"]
+	path = server-apps/cakephp-realworld-example-app
+	url = https://github.com/gothinkster/cakephp-realworld-example-app
+[submodule "server-apps/koa-knex-realworld-example"]
+	path = server-apps/koa-knex-realworld-example
+	url = https://github.com/gothinkster/koa-knex-realworld-example
+[submodule "server-apps/golang-gin-realworld-example-app"]
+	path = server-apps/golang-gin-realworld-example-app
+	url = https://github.com/gothinkster/golang-gin-realworld-example-app
+[submodule "server-apps/rust-realworld-example-app"]
+	path = server-apps/rust-realworld-example-app
+	url = https://github.com/gothinkster/rust-realworld-example-app
+[submodule "server-apps/gcp-datastore-cloud-functions-realworld-example-app"]
+	path = server-apps/gcp-datastore-cloud-functions-realworld-example-app
+	url = https://github.com/gothinkster/gcp-datastore-cloud-functions-realworld-example-app
+[submodule "server-apps/hapijs-realworld-example-app"]
+	path = server-apps/hapijs-realworld-example-app
+	url = https://github.com/gothinkster/hapijs-realworld-example-app
+[submodule "server-apps/QEWD-realworld-example-app"]
+	path = server-apps/QEWD-realworld-example-app
+	url = https://github.com/gothinkster/QEWD-realworld-example-app
+[submodule "server-apps/moleculer-node-realworld-example-app"]
+	path = server-apps/moleculer-node-realworld-example-app
+	url = https://github.com/gothinkster/moleculer-node-realworld-example-app
+[submodule "server-apps/fsharp-realworld-example-app"]
+	path = server-apps/fsharp-realworld-example-app
+	url = https://github.com/gothinkster/fsharp-realworld-example-app
+[submodule "server-apps/haskell-servant-realworld-example-app"]
+	path = server-apps/haskell-servant-realworld-example-app
+	url = https://github.com/dorlowd/haskell-servant-realworld-example-app
+[submodule "node-express-realworld-example-app"]
+	path = node-express-realworld-example-app
+	url = https://github.com/gothinkster/node-express-realworld-example-app
