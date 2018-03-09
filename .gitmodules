@@ -91,3 +91,6 @@
 [submodule "node-express-realworld-example-app"]
 	path = node-express-realworld-example-app
 	url = https://github.com/gothinkster/node-express-realworld-example-app
+[submodule "client-apps/vue-realworld-example-app"]
+	path = client-apps/vue-realworld-example-app
+	url = https://github.com/gothinkster/vue-realworld-example-app

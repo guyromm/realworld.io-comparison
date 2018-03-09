@@ -8,3 +8,4 @@ https://github.com/sveltejs/realworld
 https://github.com/gothinkster/clojurescript-reframe-realworld-example-app
 https://github.com/gothinkster/apprun-realworld-example-app
 https://github.com/gothinkster/crizmas-mvc-realworld-example-app
+https://github.com/gothinkster/vue-realworld-example-app
