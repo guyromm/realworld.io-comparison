@@ -1,0 +1,5 @@
+vue-realworld-example-app	JavaScript                      37            130            135           1367
+vue-realworld-example-app	Vuejs Component                 24             32              9           1327
+vue-realworld-example-app	JSON                             1              0              0            105
+vue-realworld-example-app	Markdown                         1             22              0             42
+vue-realworld-example-app	HTML                             1              0              3             15

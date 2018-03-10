@@ -82,8 +82,8 @@ rails-realworld-example-app	HTML                             3             15   
 rails-realworld-example-app	YAML                             8             18             51            111
 rails-realworld-example-app	Markdown                         1             22              0             32
 rails-realworld-example-app	ERB                              1              2              0             12
-rails-realworld-example-app	JavaScript                       1              0             16              0
 rails-realworld-example-app	CSS                              1              0             15              0
+rails-realworld-example-app	JavaScript                       1              0             16              0
 rust-realworld-example-app	Rust                             6            555             38           2617
 rust-realworld-example-app	SQL                              5            101             15            332
 rust-realworld-example-app	TOML                             2              4              3             42

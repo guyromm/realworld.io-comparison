@@ -2,6 +2,7 @@ repo	tot	clojure	js	cljs	ts	elm	css	html	json	yaml	md
 clojurescript-reframe-realworld-example-app	1159	49	9	987	0	0	0	22	48	0	44
 apprun-realworld-example-app	1254	0	38	0	1017	0	0	34	110	0	55
 clojurescript-keechma-realworld-example-app	1382	51	0	1291	0	0	0	15	13	0	12
+vue-realworld-example-app	1538	0	1367	0	0	0	0	15	105	0	42
 angularjs-realworld-example-app	1636	0	1074	0	0	0	0	523	25	0	14
 realworld	1865	0	294	0	0	0	0	1010	78	22	461
 crizmas-mvc-realworld-example-app	2009	0	1898	0	0	0	11	23	36	0	41

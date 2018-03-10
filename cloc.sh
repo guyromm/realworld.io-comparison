@@ -14,6 +14,7 @@ function listfiles() {
 	 ! -wholename '*www/bundle.js' \
 	 ! -iname 'package-lock.json' \
 	 ! -iname 'yarn.lock' \
+	 ! -iname '*.pyc' \
 	 -print0
 }
 function clocall() {
